@@ -8,7 +8,7 @@ const Footer = () => {
          <Link>
          <img src={logo} alt="" />
          </Link>
-          <p>DATA Edge Ltd.<br/>Providing reliable software solution since 1992</p>
+          <p>CAR Doctor Ltd.<br/>Providing reliable software solution since 1992</p>
         </aside> 
         <nav>
           <header className="footer-title">Services</header> 
